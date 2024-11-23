@@ -23,7 +23,7 @@ bot.command("start", async (ctx) => {
 
 🤸 Our protocol ensures <b>secure</b> transactions, minimizing the risks of fraud and default, and enhancing user trust and confidence. 🛡
 
-🫦 We're excited to announce that you can now access a demo of our simple <u>derivatives exchange</u>, @nenuma_bot, where you can start trading on-chain <b>BTC/USDT</b> options on <i>Testnet</i>. 📈
+🫦 We're excited to announce that you can now access a demo of our simple <u>derivatives exchange</u>, @BrokerSamayaBot, where you can start trading on-chain <b>BTC/USDT</b> options on <i>Testnet</i>. 📈
 
 📞 We welcome your feedback at @henchtab. It will help us improve our product and add new types of derivatives for trading. 🍾
 
